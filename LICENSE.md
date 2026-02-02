@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 [Fabio Semedo](https://github.com/FabioSemedo), [G. Carlos](https://github.com/LambdaFiend), [Gonçalo Branquinho](https://github.com/GoncaloBranquinho), [Gustavo dos Santos](https://github.com/Denellyne)
+Copyright (c) 2025 [Fabio Semedo](https://github.com/FabioSemedo), [Gabriel Carlos](https://github.com/LambdaFiend), [Gonçalo Branquinho](https://github.com/GoncaloBranquinho), [Gustavo dos Santos](https://github.com/Denellyne)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
