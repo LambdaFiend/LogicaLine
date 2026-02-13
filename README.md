@@ -36,4 +36,4 @@
 
 # Made by
 
-## [Fabio Semedo](https://github.com/FabioSemedo), [G. Carlos](https://github.com/LambdaFiend), [Gonçalo Branquinho](https://github.com/GoncaloBranquinho), [Gustavo dos Santos](https://github.com/Denellyne)
+## [Fabio Semedo](https://github.com/FabioSemedo), [Gabriel Carlos](https://github.com/LambdaFiend), [Gonçalo Branquinho](https://github.com/GoncaloBranquinho), [Gustavo dos Santos](https://github.com/Denellyne)
